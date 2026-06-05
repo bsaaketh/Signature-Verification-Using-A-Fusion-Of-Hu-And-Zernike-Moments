@@ -156,10 +156,10 @@ signature-verification/
 
 ## Authors
 
-**Aman Adusumilli**
+**B. Saaketh**
 B.Tech Computer Science and Engineering (AI & ML)
 Mahatma Gandhi Institute of Technology
 
-**B. Saaketh**
+**Aman Adusumilli**
 B.Tech Computer Science and Engineering (AI & ML)
 Mahatma Gandhi Institute of Technology
